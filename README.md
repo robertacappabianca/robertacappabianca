@@ -4,6 +4,12 @@
 <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
 ORCID
 </a>
+
+<a href="https://www.linkedin.com/in/roberta-cappabianca-2883041a7/">
+<img alt="ORCID logo" src="https://www.linkedin.com/in/roberta-cappabianca-2883041a7/" width="16" height="16" />
+ORCID
+</a>
+
 📫 How to reach me: roberta.cappabianca@polito.it
 
 
