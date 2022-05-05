@@ -1,5 +1,9 @@
 ### Hi👋 I'm a Ph.D. Student in Energetics at Politecnico di Torino. 
 
+<a href="https://orcid.org/my-orcid?orcid=0000-0002-3789-9676">
+<img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16" />
+https://orcid.org/my-orcid?orcid=0000-0002-3789-9676
+</a>
 📫 How to reach me: roberta.cappabianca@polito.it
 
 
