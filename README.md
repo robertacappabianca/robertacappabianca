@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi👋 I'm a Ph.D. Student in Energetics at Politecnico di Torino. 
+
 
 <!--
 **robertacappabianca/robertacappabianca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
