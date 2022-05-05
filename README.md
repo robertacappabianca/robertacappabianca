@@ -1,6 +1,6 @@
 ### Hi👋 I'm a Ph.D. Student in Energetics at Politecnico di Torino. 
 
-![Roberta Cappabianca](https://www.linkedin.com/in/roberta-cappabianca-2883041a7/)
+📫 How to reach me: roberta.cappabianca@polito.it
 
 
 <!--
