@@ -5,10 +5,9 @@
 ORCID
 </a>
 
-<a href="https://www.linkedin.com/in/roberta-cappabianca-2883041a7/">
-<img alt="ORCID logo" src="https://www.linkedin.com/in/roberta-cappabianca-2883041a7/" width="16" height="16" />
-ORCID
-</a>
+<a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
+  <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+</a> &nbsp; 
 
 📫 How to reach me: roberta.cappabianca@polito.it
 
