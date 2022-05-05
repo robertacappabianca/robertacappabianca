@@ -1,5 +1,7 @@
 ### Hi👋 I'm a Ph.D. Student in Energetics at Politecnico di Torino. 
 
+![](https://www.linkedin.com/in/roberta-cappabianca-2883041a7/)
+
 
 <!--
 **robertacappabianca/robertacappabianca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
